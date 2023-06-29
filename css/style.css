@@ -57,7 +57,7 @@
    font-size: 14px;
    line-height: 24px;
    color: #080000;
-   width: 100%;
+   width: 90%;
  }
 
  /* my projects-sectiom */
@@ -76,6 +76,7 @@
 
  .my-projects-list {
    padding: 0 0 0 17px;
+   width: 90%;
  }
 
  .my-projects-item {
@@ -231,7 +232,9 @@
    color: #fb6d3a;
    transition: color 300ms cubic-bezier(0.4, 0, 0.2, 1);
  }
-
+ .social__icon {
+  fill: #0c0300;
+}
  /* sidebar sectiom tech skills */
 
  .Tech-Skills-item {
