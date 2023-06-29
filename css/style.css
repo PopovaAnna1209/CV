@@ -20,7 +20,7 @@
    flex-direction: row-reverse;
    width: 1200px;
    background-color: #ffffff;
-   margin: 0 auto;
+
  }
 
  /* about-me-sectiom */
@@ -57,7 +57,7 @@
    font-size: 14px;
    line-height: 24px;
    color: #080000;
-   width: 90%;
+   width: 80%;
  }
 
  /* my projects-sectiom */
@@ -76,7 +76,7 @@
 
  .my-projects-list {
    padding: 0 0 0 17px;
-   width: 90%;
+   width: 80%;
  }
 
  .my-projects-item {
