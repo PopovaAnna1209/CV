@@ -17,10 +17,10 @@
 
  .main-container {
    display: flex;
-   flex-direction: row-reverse;
-   width: 1200px;
+   flex-direction: row-reverse;  
+   /* width: 1200px; */
    background-color: #ffffff;
-
+   margin: 0 auto;
  }
 
  /* about-me-sectiom */
@@ -57,7 +57,7 @@
    font-size: 14px;
    line-height: 24px;
    color: #080000;
-   width: 80%;
+   width: 90%;
  }
 
  /* my projects-sectiom */
@@ -76,7 +76,7 @@
 
  .my-projects-list {
    padding: 0 0 0 17px;
-   width: 80%;
+   width: 90%;
  }
 
  .my-projects-item {
