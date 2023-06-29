@@ -18,7 +18,7 @@
  .main-container {
    display: flex;
    flex-direction: row-reverse;  
-   /* width: 1200px; */
+   width: 1200px;
    background-color: #ffffff;
    margin: 0 auto;
  }
